@@ -1,4 +1,4 @@
-# 🚗 The Luna --- Pesta Data Nasional (PEDAS) 2025
+# 🚗 Analisis dan Prediksi Penjualan Mobil --- Pesta Data Nasional (PEDAS) 2025
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
