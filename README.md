@@ -27,11 +27,15 @@ Data Nasional (PEDAS) 2025**
 ## 👥 Kelompok The Luna
 
 **Universitas Lampung**
-
+  
+  ------------------------ ------------ ----------------
   Nama                     NPM          Peran
+  
   ------------------------ ------------ ----------------
   **Dian Fatonah**         2215061115   Ketua Kelompok
+  
   **Dini Canika Sumara**   2215061026   Anggota
+  
   **Safrina Fitriani**     2255061015   Anggota
   ------------------------ ------------ ----------------
   
