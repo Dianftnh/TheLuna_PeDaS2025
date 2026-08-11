@@ -27,18 +27,13 @@ Data Nasional (PEDAS) 2025**
 ## 👥 Kelompok The Luna
 
 **Universitas Lampung**
-  
-  ------------------------ ------------ ----------------
-  Nama                     NPM          Peran
-  
-  ------------------------ ------------ ----------------
-  **Dian Fatonah**         2215061115   Ketua Kelompok
-  
-  **Dini Canika Sumara**   2215061026   Anggota
-  
-  **Safrina Fitriani**     2255061015   Anggota
-  ------------------------ ------------ ----------------
-  
+
+| Nama | NPM | Peran |
+|---|---:|---|
+| **Dian Fatonah** | 2215061115 | Ketua Kelompok |
+| **Dini Canika Sumara** | 2215061026 | Anggota |
+| **Safrina Fitriani** | 2255061015 | Anggota |
+
 ------------------------------------------------------------------------
 
 ## 📌 Tentang Proyek
@@ -77,14 +72,14 @@ Dataset/dataCarSale2021-2025.csv
 
 Dataset memiliki **54 observasi** dan **6 kolom**:
 
-  Kolom          Keterangan
-  -------------- ---------------------------
-  `waktu`        Periode waktu penjualan
-  `DAIHATSU`     Data penjualan Daihatsu
-  `HONDA`        Data penjualan Honda
-  `MITSUBISHI`   Data penjualan Mitsubishi
-  `SUZUKI`       Data penjualan Suzuki
-  `TOYOTA`       Data penjualan Toyota
+| Kolom | Keterangan |
+|---|---|
+| `waktu` | Periode waktu penjualan |
+| `DAIHATSU` | Data penjualan Daihatsu |
+| `HONDA` | Data penjualan Honda |
+| `MITSUBISHI` | Data penjualan Mitsubishi |
+| `SUZUKI` | Data penjualan Suzuki |
+| `TOYOTA` | Data penjualan Toyota |
 
 Contoh data:
 
