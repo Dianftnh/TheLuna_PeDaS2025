@@ -19,15 +19,8 @@ Mitsubishi, Suzuki, dan Toyota.
 
 ## 🏆 Pencapaian
 
-**Bronze Award --- Babak Penyisihan Kompetisi Nasional APTIKOM -- Pesta
+Kelompok The Luna meraih **Bronze Award** pada **Babak Penyisihan Kompetisi Nasional APTIKOM -- Pesta
 Data Nasional (PEDAS) 2025**
-
-Berdasarkan sertifikat atas nama **Dian Fatonah**, babak penyisihan
-dilaksanakan pada **31 Agustus s.d. 6 September 2025**.
-
-Sertifikat: - Nomor: `02/09/PEDAS/2025` - Nama penerima: **Dian
-Fatonah** - Penghargaan: **Peraih Bronze Award** - Jakarta, **19
-September 2025**
 
 ------------------------------------------------------------------------
 
