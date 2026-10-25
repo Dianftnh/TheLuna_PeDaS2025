@@ -409,9 +409,9 @@ dengan hasil:
 Pelaksanaan: **31 Agustus s.d. 6 September 2025**\
 Tanggal sertifikat: **19 September 2025**
 
-<embed src="sertifikat_bronze_award.pdf" type="application/pdf" width="100%" height="600px" />
-<embed src="sertifikat_peserta.pdf" type="application/pdf" width="100%" height="600px" />
-
+<object data="sertifikat_peserta.png" type="application/image" width="100%" height="600px">
+    <p>Browser kamu tidak mendukung embed PDF. Silakan download <a href="sertifikat_peserta.png">di sini</a>.</p>
+</object>
 
 ------------------------------------------------------------------------
 
