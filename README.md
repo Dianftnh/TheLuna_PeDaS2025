@@ -409,9 +409,8 @@ dengan hasil:
 Pelaksanaan: **31 Agustus s.d. 6 September 2025**\
 Tanggal sertifikat: **19 September 2025**
 
-![Sertifkat Bronze Award](sertifikat_bronze_award.png "Sertifikat Bronze Award")
-![Sertifkat Peserta](sertifikat_peserta.jpg "Sertifikat Peserta")
-
+<img src="sertifikat_bronze_award.png" alt="Sertifikat Bronze Award" width="600px">
+<img src="sertifikat_peserta.jpg" alt="Sertifikat Peserta" width="600px">
 ------------------------------------------------------------------------
 
 ## 👩‍💻 Kelompok
