@@ -413,6 +413,8 @@ Tanggal sertifikat: **19 September 2025**
     <p>Browser kamu tidak mendukung embed PDF. Silakan download <a href="sertifikat_peserta.png">di sini</a>.</p>
 </object>
 
+![Sertifkat Peserta](sertifikat_peserta.png "Sertifikat Peserta")
+
 ------------------------------------------------------------------------
 
 ## 👩‍💻 Kelompok
